@@ -1,1 +1,1 @@
-Projeto consumindo api com react.js utilizando a biblioteca axios, foi utilizado react-router-dom para configuração das rotas  e feito um crud no front end utilizando a memória local do navegador para armazenamento da informações.
+Projeto consumindo api com react.js utilizando a biblioteca axios, foi utilizado react-router-dom para configuração das rotas  e feito um crud no front end utilizando a memória local do navegador para armazenamento daa informações. 
